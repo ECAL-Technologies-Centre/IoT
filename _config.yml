@@ -20,10 +20,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://ecal-technologies-centre.github.io/photogrammetry/'
+url: 'https://ecal-technologies-centre.github.io/iot/'
 baseurl: '/'
-title: 'Photogrammetry - ECAL Technologies Centre'
-description: 'Usage of photogrammetry at ECAL.' 
+title: 'IoT - ECAL Technologies Centre'
+description: 'Usage of internet of things at ECAL.' 
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 feature_video: "assets/video.mp4"
